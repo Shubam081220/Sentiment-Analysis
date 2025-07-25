@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ---
 
-### 📂 Optional: Add `.env.example` (if using Twitter API, etc.)
+### Optional: Add `.env.example` (if using Twitter API, etc.)
 
 If the project has `tweepy` or `twitter API keys`, create a `.env.example` like:
 
